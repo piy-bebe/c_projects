@@ -27,5 +27,7 @@ int main()
 {
 	setlocale(0, "");
 
+	system("color 0c");
+
 	return 0;
 }
